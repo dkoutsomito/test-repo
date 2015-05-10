@@ -1,0 +1,52 @@
+The Data Scientist's Toolbox
+
+
+econometrics->for economic data
+
+
+
+Week 2
+
+Terminal 
+pwd->path in terminal
+1)ls->list 
+ls -a ->lists hidden and unhidden files and folders
+ls -al-> lists details for -"-
+-a -l are flags....
+
+cd -> takes you to home directory
+
+mkdir -> make directory, followed by file name
+
+touch -> creates and empty file (followed by name)
+
+cp-> copy file to directory, e.g. cp test_file Documents.
+cp -r -> copy entire directory into a new directory
+
+rm -> remove file
+rm -r -> remove entire directories
+
+mv -> move file, also for rename
+
+echo ->print arguments
+
+date ->print date
+
+
+GIT:
+
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+git config --list
+
+GIT -> local
+GITHUB -> share on web
+
+see lecture week2 to setup repo
+
+fork option is to create a copy of other's repo to your github account.
+$ git clone -> to download any directory
+
+R:
+
+help
